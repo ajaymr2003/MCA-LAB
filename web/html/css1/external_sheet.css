@@ -1,0 +1,23 @@
+h1{
+    font-family: monospace;
+    color: deeppink;
+}
+p{
+    font-family: monospace;
+    color: maroon;
+    text-align: center;
+    opacity: 0.8;
+}
+a{
+    font-family: monospace;
+    color: red;
+}
+div{
+    background-color: lightgray;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 50px;
+    align-content: center;
+    font-family: monospace;
+}
